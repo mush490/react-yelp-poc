@@ -1,4 +1,5 @@
 module.exports = {
+        devtool: "source-map",
         // tell webpack to run on every file it runs through
         module: {
             rules: [
